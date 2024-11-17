@@ -8,7 +8,7 @@ Modern UI/UX: User-friendly navigation and clean interface.
 Pre-built Pages: Includes pages for Home, About Us, Services, Contact, and more.
 SEO Optimized: Improve search engine visibility with semantic HTML and optimized content.
 Demo
-Visit the Live Demo (--------------------------------)
+Visit the Live Demo (Replace this link with the live demo URL if available)
 
 Installation
 Clone the Repository
